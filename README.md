@@ -1,6 +1,4 @@
-##JS Cheat Sheet##
-
-###LINQ###
+### LINQ
 
 | C# | JS | Example |
 | --- | --- | -----  |
@@ -13,7 +11,7 @@
 | foreach| forEach | people.forEach(function(item) { console.log(item); });|
 
 
-###jQuery AJAX###
+### jQuery AJAX
 
 ```
 $.ajax(
